@@ -2,3 +2,5 @@
 /script.sh
 /Notebook.ipynb
 /.venv
+/.idea
+/.ipynb_checkpoints
